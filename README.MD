@@ -1,6 +1,6 @@
-DEMO for our sih happening in 12 hours
-
-
-failed miserably .ifc file is corrupted generating it will eat up my soul , i am on heavy time constraint
-no reliable sources available 
-lets go leave this
+DEMO for SIH 
+<br>
+I tried storing flats in .ifc files, and streaming them one by one. 
+but the ifc file itself was corrupted. open source was not valid as well, hence it did not work out.
+<br>
+i had to drop my plan of flat streaming and stayed on 3d shapes.
